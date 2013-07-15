@@ -35,7 +35,8 @@
 	<module>components</module>
 	<module>service-stubs</module>
 	<module>features</module>
-	<module>products</module>
+	<module>products/elb/2.0.5</module>
+	<module>products/stratos2</module>
     </modules>
 
     <repositories>
